@@ -1,0 +1,120 @@
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\LiveChat.dll.config
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\LiveChat.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\LiveChat.pdb
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Antlr3.Runtime.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\EntityFramework.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\EntityFramework.SqlServer.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Newtonsoft.Json.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Owin.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Helpers.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Mvc.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Optimization.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Razor.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.WebPages.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\WebGrease.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Newtonsoft.Json.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Helpers.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Mvc.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Optimization.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.Razor.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.WebPages.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Antlr3.Runtime.pdb
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\EntityFramework.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\EntityFramework.SqlServer.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\atir\Desktop\LiveChat\LiveChat\obj\Debug\LiveChat.csprojResolveAssemblyReference.cache
+C:\Users\atir\Desktop\LiveChat\LiveChat\obj\Debug\LiveChat.dll
+C:\Users\atir\Desktop\LiveChat\LiveChat\obj\Debug\LiveChat.pdb
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\LiveChat.dll.config
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\LiveChat.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\LiveChat.pdb
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Antlr3.Runtime.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\EntityFramework.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\EntityFramework.SqlServer.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Google.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Web.Infrastructure.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Newtonsoft.Json.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Owin.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Helpers.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Mvc.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Optimization.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Razor.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.WebPages.Deployment.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.WebPages.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.WebPages.Razor.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\WebGrease.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Newtonsoft.Json.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Helpers.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Mvc.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Optimization.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.Razor.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.WebPages.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.WebPages.Deployment.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\System.Web.WebPages.Razor.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Antlr3.Runtime.pdb
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\EntityFramework.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\EntityFramework.SqlServer.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Google.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\obj\Debug\LiveChat.csprojResolveAssemblyReference.cache
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\obj\Debug\LiveChat.dll
+D:\AinigmaDev\codemode youtube videos\LiveChat\LiveChat\obj\Debug\LiveChat.pdb
+C:\Users\Hamza\Desktop\livechat\LiveChat\obj\Debug\LiveChat.dll
+C:\Users\Hamza\Desktop\livechat\LiveChat\obj\Debug\LiveChat.pdb
